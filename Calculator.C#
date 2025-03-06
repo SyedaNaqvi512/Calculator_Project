@@ -12,8 +12,21 @@ Console.ReadLine();
 
 
 
+ Division
+
+
+
+
+
+int a = 5;
+int b = 5;
+int division = a / b;
+Console.WriteLine($"The division of a and b is {division}.");
+-----------------------------------------------------------
+
 int a = 5;
 int b = 5;
 int multiplication = a * b;
 Console.WriteLine($"The Multiplication of a and b is {multiplication}.");
 --------------------------------------------------------------
+Multiplication
