@@ -1,3 +1,48 @@
 Console.WriteLine("My name is Syeda Malaika Fatima");
 Console.WriteLine("My Roll number is 24-ST-063");
 Console.ReadLine();
+Subtraction
+
+
+
+
+
+
+Multiplication
+
+
+
+
+
+ Division
+
+
+
+
+
+int a = 5;
+int b = 5;
+int division = a / b;
+Console.WriteLine($"The division of a and b is {division}.");
+-----------------------------------------------------------
+
+int a = 5;
+int b = 5;
+int multiplication = a * b;
+Console.WriteLine($"The Multiplication of a and b is {multiplication}.");
+--------------------------------------------------------------
+Multiplication
+
+int a = 5;
+int b = 5;
+int subtraction = a - b;
+Console.WriteLine($"The Subtraction of a and b is {subtraction}.");
+----------------------------------------------------------
+ Subtraction
+------------------------------------------------
+int a = 5;
+int b = 5;
+int sum = a + b;
+Console.WriteLine($"The sum of a and b is {sum}.");
+--------------------------------------------------
+Addition
