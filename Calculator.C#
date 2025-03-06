@@ -2,24 +2,13 @@ Console.WriteLine("My name is Syeda Malaika Fatima");
 Console.WriteLine("My Roll number is 24-ST-063");
 Console.ReadLine();
 Subtraction
+conflict_branch2
+Hello! Where are you?
+
 Hello! How are you?
-
-
-
-
-
-Multiplication
-
-
-
-
-
+ main
+--------------------------------------------
  Division
-
-
-
-
-
 int a = 5;
 int b = 5;
 int division = a / b;
